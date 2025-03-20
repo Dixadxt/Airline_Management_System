@@ -56,28 +56,28 @@ NB: Make sure dependencies are installed for the project.
 
 - Login Page:
 
-![This is an image](src/airline/login.png)
+![This is an image](src/screenshot/login.png)
 
 - Airline Management System Dashboard:
 
-![This is an image](src/airline/dashboard.png)
+![This is an image](src/screenshot/dashboard.png)
 
 - Add Customer Page:
 
-![This is an image](src/airline/add_customer.png)
+![This is an image](src/screenshot/add_customer.png)
 
 - Cancel Flight Page:
 
-![This is an image](src/airline/cancel.png)
+![This is an image](src/screenshot/cancel.png)
 
 - Flight Information Page:
 
-![This is an image](src/airline/flight_info.png)
+![This is an image](src/screenshot/flight_info.png)
 
 - Journey Details Page:
 
-![This is an image](src/airline/journey_details.png)
+![This is an image](src/screenshot/journey_details.png)
 
 - Flight Payment Page:
 
-![This is an image](src/airline/payment.png)
+![This is an image](src/screenshot/payment.png)
